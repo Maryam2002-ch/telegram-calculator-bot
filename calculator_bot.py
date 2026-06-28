@@ -1,5 +1,4 @@
 import telebot
-from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 from dotenv import load_dotenv
 import os
 
